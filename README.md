@@ -1,4 +1,4 @@
 # swikrity-demo
 This is my first Git Repository.
 <br>
-Author-swikrity
+Author-swikrity(acharya chettri)
